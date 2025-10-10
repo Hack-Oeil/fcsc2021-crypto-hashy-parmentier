@@ -14,7 +14,7 @@ Origine : [Hashy Parmentier](https://hackropole.fr/fr/challenges/crypto/fcsc2021
 
 
 #### tentez 
-> nc crypto-hashy-parmentier.cyrhades.com:4000
+> nc crypto-hashy-parmentier.cyrhades.fr:4000
 
 
 -----------
