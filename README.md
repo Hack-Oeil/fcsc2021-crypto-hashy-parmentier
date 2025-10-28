@@ -3,7 +3,7 @@
 Mon professeur de cryptographie a dit qu’une fonction de hachage cryptographique compresse les données : mais est-ce que cela peut introduire des problèmes ?
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Hashy Parmentier](https://hackropole.fr/fr/challenges/crypto/fcsc2021-crypto-hashy-parmentier/)
 
